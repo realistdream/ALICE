@@ -25,7 +25,9 @@ Setup OpenAI API Key: Set your OpenAI API key in the script by replacing the pla
 
 *Usage*
 
-Run the script using Python: > bash python ALICE.py
+Run the script using Python: 
+
+> bash python ALICE.py
 
 This will commence the simulation of social network interactions based on the personality traits and emotional states.
 
