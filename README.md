@@ -11,11 +11,15 @@ The ALICE.py script simulates social network interactions between agents with ra
 - Multiple Agents Interaction: Simulates discussions among multiple agents to explore how personality and emotions influence conversations.
 
 *Installation*
-Clone the repository: > bash git clone <repository_url> cd <repository_directory>
+Clone the repository: 
+
+> bash git clone <repository_url> cd <repository_directory>
 
 Environment Setup: Make sure Python 3.x is installed.
 
-Install Required Packages: The script requires openai and random. Install them using: > bash pip install openai
+Install Required Packages: The script requires openai and random. Install them using: 
+
+> bash pip install openai
 
 Setup OpenAI API Key: Set your OpenAI API key in the script by replacing the placeholder string in: python openai.api_key = "your_openai_api_key"
 
