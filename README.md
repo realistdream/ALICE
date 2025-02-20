@@ -1,6 +1,7 @@
 # ALICE
 
 README for ALICE.py
+
 *Overview*
 The ALICE.py script simulates social network interactions between agents with randomly assigned personality traits. It uses the OpenAI API to generate responses that simulate a conversation about the hypothesis of living in a simulation. The model utilizes the OCEAN (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism) personality traits to guide these interactions.
 
